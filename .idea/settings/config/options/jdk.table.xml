@@ -1,0 +1,140 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;11.0.2&quot;" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre/jre-linux" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.base" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.compiler" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.datatransfer" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.desktop" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.instrument" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.logging" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.management" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.management.rmi" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.naming" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.net.http" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.prefs" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.rmi" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.scripting" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.se" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.security.jgss" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.security.sasl" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.smartcardio" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.sql" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.sql.rowset" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.transaction.xa" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.xml" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/java.xml.crypto" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/javafx.base" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/javafx.controls" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/javafx.fxml" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/javafx.graphics" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/javafx.media" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/javafx.swing" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/javafx.web" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.accessibility" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.aot" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.attach" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.charsets" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.compiler" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.dynalink" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.httpserver" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.internal.ed" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.internal.le" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.jdi" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.jfr" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.jsobject" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.localedata" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.management" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.management.agent" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.management.jfr" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.naming.dns" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.net" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.pack" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.sctp" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.security.auth" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.security.jgss" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.unsupported" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.xml.dom" type="simple" />
+            <root url="jrt://C:/policycenter/studio/sdk/jre/jre-linux!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_181&quot;" />
+      <homePath value="C:/Users/java/jdk1.8.0_181" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://C:/Users/java/jdk1.8.0_181/src.zip!/" type="simple" />
+            <root url="jar://C:/Users/java/jdk1.8.0_181/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

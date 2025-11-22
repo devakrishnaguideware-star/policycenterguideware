@@ -1,0 +1,195 @@
+2025-07-13 20:50:31,274 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2025-07-13 20:50:31,323 [     49]   INFO -        #com.intellij.idea.Main - IDE: Guidewire Studio (build #Studio-3.0, 13 Jul 2025 20:50) 
+2025-07-13 20:50:31,323 [     49]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2025-07-13 20:50:31,323 [     49]   INFO -        #com.intellij.idea.Main - JRE: 11.0.2+9-b235 (JetBrains s.r.o) 
+2025-07-13 20:50:31,323 [     49]   INFO -        #com.intellij.idea.Main - JVM: 11.0.2+9-b235 (OpenJDK 64-Bit Server VM) 
+2025-07-13 20:50:31,323 [     49]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -XX:ReservedCodeCacheSize=240m -ea -Didea.properties.file=C:/policycenter/.idea/settings/idea.properties -Dstudio.sdkroot=C:/policycenter -Didea.plugins.compatible.build=191.6707.61 -Dstudio.minimum.preferred.idea.version=191.6707 -Dfile.encoding=UTF-8 -Dide.tooltip.dismissDelay=60000 -Dapple.laf.useScreenMenuBar=true -Dapple.awt.application.name=Guidewire Studio -Didea.platform.prefix=Studio -Djunit4.search.4.tests.all.in.scope=false -Djdk.util.zip.ensureTrailingSlash=false -Xmx4g 
+2025-07-13 20:50:31,323 [     49]   INFO -        #com.intellij.idea.Main - charsets: JNU=Cp1252 file=UTF-8 
+2025-07-13 20:50:31,387 [    113]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 64 ms 
+2025-07-13 20:50:31,465 [    191]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2025-07-13 20:50:33,036 [   1762]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2025-07-13 20:50:33,072 [   1798]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2025-07-13 20:50:33,438 [   2164]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@1c7425fe[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@4fd599b3 
+2025-07-13 20:50:34,822 [   3548]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2025-07-13 20:50:34,834 [   3560]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-detection-groovy.xml 
+2025-07-13 20:50:35,305 [   4031]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 1178 ms 
+2025-07-13 20:50:35,337 [   4063]   INFO - llij.ide.plugins.PluginManager - Plugin 'Bytecode Viewer' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'Subversion' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'XPathView + XSLT Support' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'XSLT-Debugger' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'Copyright' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'Ant Support' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'TestNG-J' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'Task Management' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'UI Designer' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'Mercurial Integration' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'EditorConfig' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'IntelliLang' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'Eclipse Integration' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'Maven Integration' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'Gradle' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,352 [   4078]   INFO - llij.ide.plugins.PluginManager - Plugin 'Plugin DevKit' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,368 [   4094]   INFO - llij.ide.plugins.PluginManager - Plugin 'Kotlin' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,384 [   4110]   INFO - llij.ide.plugins.PluginManager - Plugin 'Android Support' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,399 [   4125]   INFO - llij.ide.plugins.PluginManager - Plugin 'JavaFX' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,399 [   4125]   INFO - llij.ide.plugins.PluginManager - Plugin 'Settings Repository' can't be loaded because: Plugin is disabled 
+2025-07-13 20:50:35,446 [   4172]   INFO - llij.ide.plugins.PluginManager - 39 plugins initialized in 1319 ms 
+2025-07-13 20:50:35,446 [   4172]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Coverage (191.6707.61), Git Integration (191.6707.61), GitHub (191.6707.61), Groovy (191.6707.61), I18n for Java (191.6707.61), IDEA CORE (191.6707.61), IntelliJ Configuration Script (191.6707.61), JUnit (191.6707.61), Java Stream Debugger (191.6707.61), Properties Support (191.6707.61), Smali Support (191.6707.61), Terminal (191.6707.61), YAML (191.6707.61) 
+2025-07-13 20:50:35,446 [   4172]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Cucumber for Java (191.6014.8), Gherkin (191.5849.16), Guidewire Gosu (3.0.4-rc-SNAPSHOT), Guidewire Inspections (3.0.4-rc-SNAPSHOT), Guidewire Studio (3.0.4-rc-SNAPSHOT), Swagger (1.0.25) 
+2025-07-13 20:50:35,446 [   4172]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Support (10.3.3), Ant Support (191.6707.61), Bytecode Viewer (191.6707.61), Copyright (191.6707.61), Eclipse Integration (191.6707.61), EditorConfig (191.6707.61), Gradle (191.6707.61), IntelliLang (191.6707.61), JavaFX (191.6707.61), Kotlin (1.3.21-release-IJ2019.1-3), Maven Integration (191.6707.61), Mercurial Integration (191.6707.61), Plugin DevKit (191.6707.61), Settings Repository (191.6707.61), Subversion (191.6707.61), Task Management (191.6707.61), TestNG-J (191.6707.61), UI Designer (191.6707.61), XPathView + XSLT Support (191.6707.61), XSLT-Debugger (191.6707.61) 
+2025-07-13 20:50:40,193 [   8919]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\policycenter\.idea\settings\system\caches\names.dat' does not exist 
+2025-07-13 20:50:40,194 [   8920]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=4076 
+2025-07-13 20:50:40,241 [   8967]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\policycenter\studio\sdk\bin\fsnotifier64.exe 
+2025-07-13 20:50:40,688 [   9414]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2025-07-13 20:50:41,547 [  10273]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2025-07-13 20:50:41,547 [  10273]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2025-07-13 20:50:42,536 [  11262]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2025-07-13 20:50:42,551 [  11277]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2025-07-13 20:50:42,614 [  11340]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2025-07-13 20:50:42,630 [  11356]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2025-07-13 20:50:43,053 [  11779]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:344, number of extensions:45 
+2025-07-13 20:50:43,053 [  11779]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:6 
+2025-07-13 20:50:43,102 [  11828]   INFO - il.indexing.FileBasedIndexImpl - Index FilenameIndex will be built. 
+2025-07-13 20:50:43,107 [  11833]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:44, number of extensions:34 
+2025-07-13 20:50:43,107 [  11833]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2025-07-13 20:50:43,205 [  11931]   INFO - il.indexing.FileBasedIndexImpl - Index filetypes will be built. 
+2025-07-13 20:50:43,213 [  11939]   INFO - il.indexing.FileBasedIndexImpl - Index java.auto.module.name will be built. 
+2025-07-13 20:50:43,231 [  11957]   INFO - il.indexing.FileBasedIndexImpl - Index GroovyDslFileIndex will be built. 
+2025-07-13 20:50:43,238 [  11964]   INFO - il.indexing.FileBasedIndexImpl - Index FrameworkDetectionIndex will be built. 
+2025-07-13 20:50:43,273 [  11999]   INFO - il.indexing.FileBasedIndexImpl - Index TodoIndex will be built. 
+2025-07-13 20:50:43,425 [  12151]   INFO - il.indexing.FileBasedIndexImpl - Index IdIndex will be built. 
+2025-07-13 20:50:43,442 [  12168]   INFO - il.indexing.FileBasedIndexImpl - Index Stubs will be built. 
+2025-07-13 20:50:43,655 [  12381]   INFO - ellij.project.impl.ProjectImpl - 18 project components initialized in 299 ms 
+2025-07-13 20:50:43,690 [  12416]   INFO - j.ide.ui.OptionsTopHitProvider - 1866 ms spent to cache options in application 
+2025-07-13 20:50:43,690 [  12416]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 1867 ms 
+2025-07-13 20:50:43,746 [  12472]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:GosuTemplate,CLASS,DGM File Type,JAVA,Gosu,GosuProgram,HTML,Properties,Groovy,XML 
+2025-07-13 20:50:43,770 [  12496]   INFO - il.indexing.FileBasedIndexImpl - Index Trigram.Index will be built. 
+2025-07-13 20:50:43,799 [  12525]   INFO - il.indexing.FileBasedIndexImpl - Index fileIncludes will be built. 
+2025-07-13 20:50:43,828 [  12554]   INFO - il.indexing.FileBasedIndexImpl - Index DomFileIndex will be built. 
+2025-07-13 20:50:43,841 [  12567]   INFO - il.indexing.FileBasedIndexImpl - Index RelaxSymbolIndex will be built. 
+2025-07-13 20:50:43,850 [  12576]   INFO - il.indexing.FileBasedIndexImpl - Index XmlTagNames will be built. 
+2025-07-13 20:50:43,860 [  12586]   INFO - il.indexing.FileBasedIndexImpl - Index XmlNamespaces will be built. 
+2025-07-13 20:50:43,871 [  12597]   INFO - il.indexing.FileBasedIndexImpl - Index html5.custom.attributes.index will be built. 
+2025-07-13 20:50:43,881 [  12607]   INFO - il.indexing.FileBasedIndexImpl - Index SchemaTypeInheritance will be built. 
+2025-07-13 20:50:43,896 [  12622]   INFO - il.indexing.FileBasedIndexImpl - Index json.file.root.values will be built. 
+2025-07-13 20:50:43,942 [  12668]   INFO - il.indexing.FileBasedIndexImpl - Index ImageFileInfoIndex will be built. 
+2025-07-13 20:50:43,960 [  12686]   INFO - il.indexing.FileBasedIndexImpl - Index bytecodeAnalysis will be built. 
+2025-07-13 20:50:43,992 [  12718]   INFO - il.indexing.FileBasedIndexImpl - Index java.null.method.argument will be built. 
+2025-07-13 20:50:44,012 [  12738]   INFO - il.indexing.FileBasedIndexImpl - Index java.simple.property will be built. 
+2025-07-13 20:50:44,031 [  12757]   INFO - il.indexing.FileBasedIndexImpl - Index java.fun.expression will be built. 
+2025-07-13 20:50:44,061 [  12787]   INFO - il.indexing.FileBasedIndexImpl - Index java.binary.plus.expression will be built. 
+2025-07-13 20:50:44,075 [  12801]   INFO - il.indexing.FileBasedIndexImpl - Index jvm.hierarchy will be built. 
+2025-07-13 20:50:44,090 [  12816]   INFO - il.indexing.FileBasedIndexImpl - Index RefQueueIndex will be built. 
+2025-07-13 20:50:44,118 [  12844]   INFO - il.indexing.FileBasedIndexImpl - Index xmlProperties will be built. 
+2025-07-13 20:50:44,134 [  12860]   INFO - il.indexing.FileBasedIndexImpl - Index java.cucumber.java8.step will be built. 
+2025-07-13 20:50:44,142 [  12868]   INFO - il.indexing.FileBasedIndexImpl - Index largetemplates will be built. 
+2025-07-13 20:50:44,163 [  12889]   INFO - il.indexing.FileBasedIndexImpl - Index groovy.trait.fields will be built. 
+2025-07-13 20:50:44,203 [  12929]   INFO - il.indexing.FileBasedIndexImpl - Index groovy.trait.methods will be built. 
+2025-07-13 20:50:44,226 [  12952]   INFO - il.indexing.FileBasedIndexImpl - Index yaml.keys.name will be built. 
+2025-07-13 20:50:44,265 [  12991]   INFO - il.indexing.FileBasedIndexImpl - Index SwaggerFileIndex will be built. 
+2025-07-13 20:50:44,300 [  13026]   INFO - il.indexing.FileBasedIndexImpl - Index OpenApiFileIndex will be built. 
+2025-07-13 20:50:44,321 [  13047]   INFO - il.indexing.FileBasedIndexImpl - Index guidewire.pcf.file.index will be built. 
+2025-07-13 20:50:44,335 [  13061]   INFO - il.indexing.FileBasedIndexImpl - Index Guidewire.Pcf.WidgetTemplate.Index will be built. 
+2025-07-13 20:50:44,374 [  13100]   INFO - il.indexing.FileBasedIndexImpl - Index Guidewire.Metadata.Index will be built. 
+2025-07-13 20:50:44,390 [  13116]   INFO - il.indexing.FileBasedIndexImpl - Index entitynames will be built. 
+2025-07-13 20:50:44,414 [  13140]   INFO - il.indexing.FileBasedIndexImpl - Index GX file Index will be built. 
+2025-07-13 20:50:44,427 [  13153]   INFO - il.indexing.FileBasedIndexImpl - Index Guidewire.Xml.Index will be built. 
+2025-07-13 20:50:44,447 [  13173]   INFO - il.indexing.FileBasedIndexImpl - Index Guidewire.Workflow.Index will be built. 
+2025-07-13 20:50:44,532 [  13258]   INFO - il.indexing.FileBasedIndexImpl - Index Guidewire.Subtype.Index will be built. 
+2025-07-13 20:50:44,548 [  13274]   INFO - il.indexing.FileBasedIndexImpl - Index Guidewire.Typecode.Index will be built. 
+2025-07-13 20:50:44,559 [  13285]   INFO - il.indexing.FileBasedIndexImpl - Index Guidewire.SystemPermissionTypecode.Index will be built. 
+2025-07-13 20:50:44,563 [  13289]   INFO - il.indexing.FileBasedIndexImpl - Index Guidewire.Category.Index will be built. 
+2025-07-13 20:50:44,606 [  13332]   INFO - il.indexing.FileBasedIndexImpl - Index com.intellij.util.indexing.VfsAwareMapReduceIndex@7fb9ac8 already registered for the name 'SwaggerFileIndex' 
+java.lang.IllegalStateException: Index com.intellij.util.indexing.VfsAwareMapReduceIndex@7fb9ac8 already registered for the name 'SwaggerFileIndex'
+	at com.intellij.util.indexing.IndexConfiguration.registerIndex(IndexConfiguration.java:80)
+	at com.intellij.util.indexing.FileBasedIndexImpl.initIndexStorage(FileBasedIndexImpl.java:402)
+	at com.intellij.util.indexing.FileBasedIndexImpl.registerIndexer(FileBasedIndexImpl.java:364)
+	at com.intellij.util.indexing.FileBasedIndexImpl.access$5400(FileBasedIndexImpl.java:102)
+	at com.intellij.util.indexing.FileBasedIndexImpl$FileIndexDataInitialization.lambda$new$1(FileBasedIndexImpl.java:2381)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.executeNestedInitializationTask(IndexInfrastructure.java:217)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.runParallelNestedInitializationTasks(IndexInfrastructure.java:205)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.call(IndexInfrastructure.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:220)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$100(BoundedTaskExecutor.java:26)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$2.lambda$run$0(BoundedTaskExecutor.java:198)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:224)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$2.run(BoundedTaskExecutor.java:194)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+2025-07-13 20:50:44,648 [  13374]   INFO - il.indexing.FileBasedIndexImpl - Index com.intellij.util.indexing.VfsAwareMapReduceIndex@6a394817 already registered for the name 'SwaggerFileIndex' 
+java.lang.IllegalStateException: Index com.intellij.util.indexing.VfsAwareMapReduceIndex@6a394817 already registered for the name 'SwaggerFileIndex'
+	at com.intellij.util.indexing.IndexConfiguration.registerIndex(IndexConfiguration.java:80)
+	at com.intellij.util.indexing.FileBasedIndexImpl.initIndexStorage(FileBasedIndexImpl.java:402)
+	at com.intellij.util.indexing.FileBasedIndexImpl.registerIndexer(FileBasedIndexImpl.java:364)
+	at com.intellij.util.indexing.FileBasedIndexImpl.access$5400(FileBasedIndexImpl.java:102)
+	at com.intellij.util.indexing.FileBasedIndexImpl$FileIndexDataInitialization.lambda$new$1(FileBasedIndexImpl.java:2381)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.executeNestedInitializationTask(IndexInfrastructure.java:217)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.runParallelNestedInitializationTasks(IndexInfrastructure.java:205)
+	at com.intellij.util.indexing.IndexInfrastructure$DataInitialization.call(IndexInfrastructure.java:166)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:220)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$100(BoundedTaskExecutor.java:26)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$2.lambda$run$0(BoundedTaskExecutor.java:198)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:224)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$2.run(BoundedTaskExecutor.java:194)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+2025-07-13 20:50:44,659 [  13385]   INFO - pl$FileIndexDataInitialization - Initialization done:1598 
+2025-07-13 20:50:44,661 [  13387]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index dom.namespaceKey will be built. 
+2025-07-13 20:50:44,691 [  13417]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index dom.elementClass will be built. 
+2025-07-13 20:50:44,701 [  13427]   INFO - tellij.psi.stubs.StubIndexImpl - Stub index java.module.name will be built. 
+2025-07-29 06:38:58,275 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2025-07-29 06:38:58,327 [     52]   INFO -        #com.intellij.idea.Main - IDE: Guidewire Studio (build #Studio-3.0, 29 Jul 2025 06:38) 
+2025-07-29 06:38:58,327 [     52]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2025-07-29 06:38:58,327 [     52]   INFO -        #com.intellij.idea.Main - JRE: 11.0.2+9-b235 (JetBrains s.r.o) 
+2025-07-29 06:38:58,327 [     52]   INFO -        #com.intellij.idea.Main - JVM: 11.0.2+9-b235 (OpenJDK 64-Bit Server VM) 
+2025-07-29 06:38:58,327 [     52]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -XX:ReservedCodeCacheSize=240m -ea -Didea.properties.file=C:/policycenter/.idea/settings/idea.properties -Dstudio.sdkroot=C:/policycenter -Didea.plugins.compatible.build=191.6707.61 -Dstudio.minimum.preferred.idea.version=191.6707 -Dfile.encoding=UTF-8 -Dide.tooltip.dismissDelay=60000 -Dapple.laf.useScreenMenuBar=true -Dapple.awt.application.name=Guidewire Studio -Didea.platform.prefix=Studio -Duser.language=en -Duser.country=US -Djunit4.search.4.tests.all.in.scope=false -Djdk.util.zip.ensureTrailingSlash=false -Xmx4g 
+2025-07-29 06:38:58,327 [     52]   INFO -        #com.intellij.idea.Main - charsets: JNU=Cp1252 file=UTF-8 
+2025-07-29 06:38:58,389 [    114]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 62 ms 
+2025-07-29 06:38:58,466 [    191]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2025-07-29 06:38:59,554 [   1279]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2025-07-29 06:38:59,578 [   1303]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2025-07-29 06:38:59,992 [   1717]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@89096a[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@51f2048d 
+2025-07-29 06:39:01,265 [   2990]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2025-07-29 06:39:01,265 [   2990]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-detection-groovy.xml 
+2025-07-29 06:39:01,901 [   3626]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 1252 ms 
+2025-07-29 06:39:01,961 [   3686]   INFO - llij.ide.plugins.PluginManager - Plugin 'Bytecode Viewer' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,961 [   3686]   INFO - llij.ide.plugins.PluginManager - Plugin 'Subversion' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,961 [   3686]   INFO - llij.ide.plugins.PluginManager - Plugin 'XPathView + XSLT Support' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,961 [   3686]   INFO - llij.ide.plugins.PluginManager - Plugin 'XSLT-Debugger' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'Copyright' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'Ant Support' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'TestNG-J' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'Task Management' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'UI Designer' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'Mercurial Integration' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'EditorConfig' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'IntelliLang' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'Eclipse Integration' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'Maven Integration' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'Gradle' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'Plugin DevKit' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,978 [   3703]   INFO - llij.ide.plugins.PluginManager - Plugin 'Kotlin' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,993 [   3718]   INFO - llij.ide.plugins.PluginManager - Plugin 'Android Support' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,993 [   3718]   INFO - llij.ide.plugins.PluginManager - Plugin 'JavaFX' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:01,993 [   3718]   INFO - llij.ide.plugins.PluginManager - Plugin 'Settings Repository' can't be loaded because: Plugin is disabled 
+2025-07-29 06:39:02,108 [   3833]   INFO - llij.ide.plugins.PluginManager - 39 plugins initialized in 1459 ms 
+2025-07-29 06:39:02,108 [   3833]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Coverage (191.6707.61), Git Integration (191.6707.61), GitHub (191.6707.61), Groovy (191.6707.61), I18n for Java (191.6707.61), IDEA CORE (191.6707.61), IntelliJ Configuration Script (191.6707.61), JUnit (191.6707.61), Java Stream Debugger (191.6707.61), Properties Support (191.6707.61), Smali Support (191.6707.61), Terminal (191.6707.61), YAML (191.6707.61) 
+2025-07-29 06:39:02,108 [   3833]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Cucumber for Java (191.6014.8), Gherkin (191.5849.16), Guidewire Gosu (3.0.4-rc-SNAPSHOT), Guidewire Inspections (3.0.4-rc-SNAPSHOT), Guidewire Studio (3.0.4-rc-SNAPSHOT), Swagger (1.0.25) 
+2025-07-29 06:39:02,108 [   3833]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: Android Support (10.3.3), Ant Support (191.6707.61), Bytecode Viewer (191.6707.61), Copyright (191.6707.61), Eclipse Integration (191.6707.61), EditorConfig (191.6707.61), Gradle (191.6707.61), IntelliLang (191.6707.61), JavaFX (191.6707.61), Kotlin (1.3.21-release-IJ2019.1-3), Maven Integration (191.6707.61), Mercurial Integration (191.6707.61), Plugin DevKit (191.6707.61), Settings Repository (191.6707.61), Subversion (191.6707.61), Task Management (191.6707.61), TestNG-J (191.6707.61), UI Designer (191.6707.61), XPathView + XSLT Support (191.6707.61), XSLT-Debugger (191.6707.61) 
+2025-07-29 06:39:06,954 [   8679]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=4076 
+2025-07-29 06:39:07,001 [   8726]   INFO - tellij.util.io.storage.Storage - Space waste in C:\policycenter\.idea\settings\system\caches\attrib.dat is 3737227 bytes. Compacting now. 
+2025-07-29 06:39:07,604 [   9329]   INFO - tellij.util.io.storage.Storage - Done compacting in 603msec. 
+2025-07-29 06:39:07,747 [   9472]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\policycenter\studio\sdk\bin\fsnotifier64.exe 
+2025-07-29 06:39:08,148 [   9873]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2025-07-29 06:39:10,243 [  11968]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2025-07-29 06:39:10,265 [  11990]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2025-07-29 06:39:10,336 [  12061]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2025-07-29 06:39:10,395 [  12120]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2025-07-29 06:39:10,803 [  12528]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:334, number of extensions:45 
+2025-07-29 06:39:10,819 [  12544]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:5 
+2025-07-29 06:39:10,868 [  12593]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:24, number of extensions:34 
+2025-07-29 06:39:10,868 [  12593]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
